@@ -27,7 +27,7 @@ export const projects = [
     tech: ["Python", "OpenCV", "MediaPipe"],
     image: "https://cdn.leonardo.ai/users/f862bb01-c2d4-43d9-aa4b-a068e9c6d5e7/generations/1f1ab417-a96c-6080-a8ae-32703ed53724/lucid-origin_pointing_an_extended_index_finger_toward_a_webcam_to_write_in_thin_air_without_h-0.jpg",
     githubUrl: "https://github.com/nikithajammugani2004-png/AirDrawer",
-    liveUrl: "https://airdrawer.onrender.com"
+    liveUrl: "https://air-drawer-taupe.vercel.app/"
   },
   {
     title: "Gesture Maze Game",
@@ -35,7 +35,7 @@ export const projects = [
     tech: ["JavaScript", "HTML5 Canvas", "CSS"],
     image: "https://cdn.leonardo.ai/users/f862bb01-c2d4-43d9-aa4b-a068e9c6d5e7/generations/1f1ab40b-53bd-6550-bc09-8bf5ac29b5d0/gemini-2.5-flash-image_First-person_point-of-view_of_a_person_sitting_at_a_modern_desk_raising_one_hand-0.jpg",
     githubUrl: "https://github.com/nikithajammugani2004-png/gesture-maze-game",
-    liveUrl: "https://gesture-maze-game.onrender.com"
+    liveUrl: "https://nikithajammugani2004-png.github.io/gesture-maze-game/"
   },
   {
     title: "Vision Jigsaw Puzzle",
@@ -59,7 +59,7 @@ export const projects = [
     tech: ["JavaScript", "OpenCV", "CSS"],
     image: "https://ideogram.ai/assets/image/lossless/response/uYE-iVVaUDitm6blKLECzA@2k",
     githubUrl: "https://github.com/nikithajammugani2004-png/rock_paper_scissors_app",
-    liveUrl: "https://cv-rock-paper-scissors-wzlf.onrender.com/"
+    liveUrl: "https://nikithajammugani2004-png.github.io/rock_paper_scissors_app/"
   },
   {
     title: "Nikitha Games Suite",
